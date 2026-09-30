@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "608432741374",
+    "project_id": "mad-lab-05-93ef2",
+    "storage_bucket": "mad-lab-05-93ef2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608432741374:android:bcc330802e3762c7b33eaf",
+        "android_client_info": {
+          "package_name": "com.eggme.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608432741374-17h0fo1rsc5su8njh4usr2tdgg06krd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eggme.recipeapp",
+            "certificate_hash": "f2dc6ef7fac4bab68dca9160421df6380021fecd"
+          }
+        },
+        {
+          "client_id": "608432741374-g1a5ed6jbcpn57mble8s4ru05s9uqdt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eggme.recipeapp",
+            "certificate_hash": "7065f0a8a4d15a57730676fc3add5a184cb3bdad"
+          }
+        },
+        {
+          "client_id": "608432741374-sub158tsubn404qkpr79eqatquq8qg21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eggme.recipeapp",
+            "certificate_hash": "08054822c34f25c881f76751b419e013b1f72ad0"
+          }
+        },
+        {
+          "client_id": "608432741374-v9pcf4g3eodnunabj4ai4mt83jd5tbsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eggme.recipeapp",
+            "certificate_hash": "95fcb108024a1d02336cddcb284006a859d3d266"
+          }
+        },
+        {
+          "client_id": "608432741374-uk0rsil214nm430srtulo561qjkj84ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1yo5J1ccJwJqFNsQv49LH5Adi_Cm9PTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608432741374-fsqqbd6mqvae0e10u1d9dp2vk9k1bvqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

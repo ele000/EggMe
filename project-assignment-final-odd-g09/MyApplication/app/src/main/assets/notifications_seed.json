@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1",
+    "userId": "z1jY4W7yXaMMz67ti2KhFFDAda32",
+    "type": "IMPORTED",
+    "title": "New import",
+    "message": "imported your recipe",
+    "recipeId": "2",
+    "author": {"id": "202", "name": "Luca", "surname": "Bianchi"},
+    "createdAt": { "seconds": 1779062400, "nanoseconds": 0 },
+    "isRead": false
+  },
+  {
+    "id": "2",
+    "userId": "z1jY4W7yXaMMz67ti2KhFFDAda32",
+    "type": "IMPORTED",
+    "title": "New import",
+    "message": "imported your recipe",
+    "recipeId": "4",
+    "author": {"id": "303", "name": "Anna", "surname": "Verdi"},
+    "createdAt": { "seconds": 1779062400, "nanoseconds": 0 },
+    "isRead": false
+  },
+
+  {
+    "id": "3",
+    "userId": "z1jY4W7yXaMMz67ti2KhFFDAda32",
+    "type": "REVIEW",
+    "title": "New review",
+    "message": "reviewed your recipe",
+    "recipeId": "8",
+    "author": {"id": "202", "name": "Luca", "surname": "Bianchi"},
+    "createdAt": { "seconds": 1779062400, "nanoseconds": 0 },
+    "isRead": false
+  },
+  {
+    "id": "4",
+    "userId": "z1jY4W7yXaMMz67ti2KhFFDAda32",
+    "type": "REVIEW",
+    "title": "New review",
+    "message": "reviewed your recipe",
+    "recipeId": "8",
+    "author": {"id": "303", "name": "Anna", "surname": "Verdi"},
+    "createdAt": { "seconds": 1779062400, "nanoseconds": 0 },
+    "isRead": false
+  },
+
+  {
+    "id": "5",
+    "userId": "z1jY4W7yXaMMz67ti2KhFFDAda32",
+    "type": "RECOMMENDED",
+    "title": "Recommended for you",
+    "message": "published a recipe you might like",
+    "recipeId": "5",
+    "author": {"id": "303", "name": "Anna", "surname": "Verdi"},
+    "createdAt": { "seconds": 1779062400, "nanoseconds": 0 },
+    "isRead": false
+  },
+  {
+    "id": "6",
+    "userId": "z1jY4W7yXaMMz67ti2KhFFDAda32",
+    "type": "RECOMMENDED",
+    "title": "Recommended for you",
+    "message": "published a recipe you might like",
+    "recipeId": "9",
+    "author": {"id": "202", "name": "Luca", "surname": "Bianchi"},
+    "createdAt": { "seconds": 1779062400, "nanoseconds": 0 },
+    "isRead": false
+  }
+]

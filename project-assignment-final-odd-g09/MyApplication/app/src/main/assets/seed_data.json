@@ -1,0 +1,448 @@
+[
+  {
+    "id": "1",
+    "title": "frittata",
+    "recipePicture": "eggme_photos/frittata.png",
+    "cost": "CHEAP",
+    "difficulty": "EASY",
+    "cuisineType": "Italian",
+    "time": 15,
+    "servings": 2,
+    "ingredients": [
+      { "name": "Eggs", "quantity": 4, "unityOfMeasurement": "pcs" },
+      { "name": "Olive oil", "quantity": 2, "unityOfMeasurement": "tbsp" },
+      { "name": "Salt", "quantity": 1, "unityOfMeasurement": "tsp" },
+      { "name": "Pepper", "quantity": 1, "unityOfMeasurement": "tsp" },
+      { "name": "Parmesan", "quantity": 30, "unityOfMeasurement": "g" }
+    ],
+    "steps": [
+      { "title": "Whisking the Eggs", "description": "In a medium bowl, beat the eggs with salt, pepper and grated parmesan...", "picture": "eggme_photos/step1_frittata.png" },
+      { "title": "Cooking", "description": "Heat olive oil in a non-stick skillet over medium heat...", "picture": "eggme_photos/step2_frittata.png" },
+      { "title": "Serving", "description": "Slide the frittata onto a plate, cut, and serve hot.", "picture": "eggme_photos/step3_frittata.png" }
+    ],
+    "author": {"id": "202", "name": "Luca", "surname": "Bianchi"},
+    "rating": 4.0,
+    "reviews": [
+      {
+        "id": "1",
+        "description": "Really quick and delicious recipe. The parmesan gives the frittata a rich flavor and the instructions were very easy to follow.",
+        "rating": 5,
+        "photo": "eggme_photos/review_frittata.png",
+        "reviewDate": { "seconds": 1778155200, "nanoseconds": 0 },
+        "author": {"id": "z1jY4W7yXaMMz67ti2KhFFDAda32", "name": "Mario", "surname": "Rosa"}
+      },
+      {
+        "id": "2",
+        "description": "Simple, tasty, and perfect for a fast lunch. I also added some fresh herbs and it turned out amazing.",
+        "rating": 4,
+        "photo": "",
+        "reviewDate": { "seconds": 1778155200, "nanoseconds": 0 },
+        "author": {"id": "303", "name": "Anna", "surname": "Verdi"}
+      },
+      {
+        "id": "3",
+        "description": "I didn't really like this recipe",
+        "rating": 2,
+        "photo": "",
+        "reviewDate": { "seconds": 1778241600, "nanoseconds": 0 },
+        "author": {"id": "404", "name": "Carla", "surname": "Rossi"}
+      },
+      {
+        "id": "4",
+        "description": "I love cooking this for my work lunches",
+        "rating": 5,
+        "photo": "",
+        "reviewDate": { "seconds": 1778500800, "nanoseconds": 0 },
+        "author": {"id": "505", "name": "Emanuele", "surname": "Bruno"}
+      }
+    ],
+    "creationDate": { "seconds": 1778148000, "nanoseconds": 0 },
+    "dietaryRestrictions": ["Nut-free"],
+    "forkedFromUserId": ""
+  },
+  {
+    "id": "2",
+    "title": "Zucchini Pesto Pasta",
+    "recipePicture": "eggme_photos/pesto.png",
+    "cost": "CHEAP",
+    "difficulty": "EASY",
+    "cuisineType": "Italian",
+    "time": 25,
+    "servings": 2,
+    "ingredients": [
+      { "name": "Eggs", "quantity": 1, "unityOfMeasurement": "pcs" },
+      { "name": "Pasta", "quantity": 200, "unityOfMeasurement": "g" },
+      { "name": "Zucchini", "quantity": 2, "unityOfMeasurement": "pcs" },
+      { "name": "Parmesan", "quantity": 30, "unityOfMeasurement": "g" },
+      { "name": "Almonds", "quantity": 20, "unityOfMeasurement": "g" },
+      { "name": "Olive Oil", "quantity": 1, "unityOfMeasurement": "q.b." },
+      { "name": "Salt", "quantity": 1, "unityOfMeasurement": "q.b." }
+    ],
+    "steps": [
+      { "title": "Cook pasta", "description": "Bring salted water to a boil and cook the pasta.", "picture": "eggme_photos/step1_pesto.png" },
+      { "title": "Make pesto", "description": "Blend zucchini, almonds, Parmesan and oil until creamy.", "picture": "eggme_photos/step2_pesto.png" },
+      { "title": "Add egg", "description": "Beat the egg and mix it into the hot pasta off the heat.", "picture": "eggme_photos/step3_pesto.png" },
+      { "title": "Assemble", "description": "Drain the pasta, mix and serve.", "picture": "eggme_photos/step4_pesto.png" }
+    ],
+    "author": { "id": "z1jY4W7yXaMMz67ti2KhFFDAda32", "name": "Mario", "surname": "Rosa" },
+    "rating": 4.0,
+    "reviews": [
+      {
+        "id": "1",
+        "description": "Creamy and flavorful pasta recipe. The zucchini pesto was fresh and light, perfect for a quick dinner.",
+        "rating": 5,
+        "photo": "eggme_photos/review_pesto.png",
+        "reviewDate": { "seconds": 1778155200, "nanoseconds": 0 },
+        "author": {"id": "202", "name": "Luca", "surname": "Bianchi"}
+      },
+      {
+        "id": "2",
+        "description": "The recipe was easy to follow and the pasta turned out good, but I expected a stronger zucchini flavor.",
+        "rating": 3,
+        "photo": "",
+        "reviewDate": { "seconds": 1778155200, "nanoseconds": 0 },
+        "author": {"id": "303", "name": "Anna", "surname": "Verdi"}
+      },
+      {
+        "id": "3",
+        "description": "Overall a nice recipe. Not the best one on this app though.",
+        "rating": 3,
+        "photo": "",
+        "reviewDate": { "seconds": 1779537600, "nanoseconds": 0 },
+        "author": {"id": "505", "name": "Emanuele", "surname": "Bruno"}
+      },
+      {
+        "id": "4",
+        "description": "I love everything pesto related.",
+        "rating": 5,
+        "photo": "",
+        "reviewDate": { "seconds": 1778587200, "nanoseconds": 0 },
+        "author": {"id": "404", "name": "Carla", "surname": "Rossi"}
+      }
+    ],
+    "creationDate": { "seconds": 1778061600, "nanoseconds": 0 },
+    "forkedFromUserId": ""
+  },
+  {
+    "id": "3",
+    "title": "Chickpea Curry",
+    "recipePicture": "eggme_photos/curry.png",
+    "cost": "CHEAP",
+    "difficulty": "MEDIUM",
+    "cuisineType": "Indian",
+    "time": 35,
+    "servings": 2,
+    "ingredients": [
+      { "name": "Eggs", "quantity": 1, "unityOfMeasurement": "pcs" },
+      { "name": "Chickpeas", "quantity": 240, "unityOfMeasurement": "g" },
+      { "name": "Coconut milk", "quantity": 200, "unityOfMeasurement": "ml" },
+      { "name": "Onion", "quantity": 1, "unityOfMeasurement": "pcs" },
+      { "name": "Curry powder", "quantity": 1, "unityOfMeasurement": "q.b." },
+      { "name": "Basmati rice", "quantity": 100, "unityOfMeasurement": "g" }
+    ],
+    "steps": [
+      { "title": "Sauté", "description": "Chop the onion and sauté it in oil.", "picture": "eggme_photos/step1_curry.png" },
+      { "title": "Cook", "description": "Add chickpeas and curry powder.", "picture": "eggme_photos/step2_curry.png" },
+      { "title": "Add egg", "description": "Whisk the egg and slowly incorporate it for creaminess.", "picture": "eggme_photos/step3_curry.png" },
+      { "title": "Finish", "description": "Pour in coconut milk and cook for 20 minutes. Serve with rice.", "picture": "eggme_photos/step4_curry.png" }
+    ],
+    "author": {"id": "303", "name": "Anna", "surname": "Verdi"},
+    "rating": 4.0,
+    "reviews": [
+      {
+        "id": "1",
+        "description": "Rich, comforting, and full of flavor. The coconut milk made the curry extra creamy.",
+        "rating": 5,
+        "photo": "eggme_photos/review_curry.png",
+        "reviewDate": { "seconds": 1778241600, "nanoseconds": 0 },
+        "author": {"id": "z1jY4W7yXaMMz67ti2KhFFDAda32", "name": "Mario", "surname": "Rosa"}
+      },
+      {
+        "id": "2",
+        "description": "Good recipe with simple ingredients, but the curry needed a bit more spice for my taste.",
+        "rating": 3,
+        "photo": "",
+        "reviewDate": { "seconds": 1778587200, "nanoseconds": 0 },
+        "author": {"id": "202", "name": "Luca", "surname": "Bianchi"}
+      }
+    ],
+    "creationDate": { "seconds": 1778234400, "nanoseconds": 0 },
+    "dietaryRestrictions": ["Nut-free"],
+    "forkedFromUserId": ""
+  },
+  {
+    "id": "4",
+    "title": "Avocado Toast",
+    "recipePicture": "eggme_photos/toast.png",
+    "cost": "CHEAP",
+    "difficulty": "EASY",
+    "cuisineType": "American",
+    "time": 15,
+    "servings": 1,
+    "ingredients": [
+      { "name": "Eggs", "quantity": 2, "unityOfMeasurement": "pcs" },
+      { "name": "Whole grain bread", "quantity": 2, "unityOfMeasurement": "slices" },
+      { "name": "Avocado", "quantity": 1, "unityOfMeasurement": "pcs" },
+      { "name": "Salt", "quantity": 1, "unityOfMeasurement": "q.b." },
+      { "name": "Pepper", "quantity": 1, "unityOfMeasurement": "q.b." }
+    ],
+    "steps": [
+      { "title": "Toast", "description": "Toast the bread.", "picture": "eggme_photos/step1_toast.png" },
+      { "title": "Avocado", "description": "Mash avocado with salt and pepper.", "picture": "eggme_photos/step2_toast.png" },
+      { "title": "Eggs", "description": "Cook the eggs and place them on top of the bread.", "picture": "eggme_photos/step3_toast.png" }
+    ],
+    "author": { "id": "z1jY4W7yXaMMz67ti2KhFFDAda32", "name": "Mario", "surname": "Rosa" },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": "1",
+        "description": "Very quick and healthy breakfast. The avocado was creamy and the toast was really satisfying.",
+        "rating": 5,
+        "photo": "eggme_photos/review_toast.png",
+        "reviewDate": { "seconds": 1778328000, "nanoseconds": 0 },
+        "author": {"id": "303", "name": "Anna", "surname": "Verdi"}
+      },
+      {
+        "id": "2",
+        "description": "Simple and tasty recipe. Easy to make, but I would have liked a bit more seasoning for extra flavor.",
+        "rating": 4,
+        "photo": "",
+        "reviewDate": { "seconds": 1778414400, "nanoseconds": 0 },
+        "author": {"id": "202", "name": "Luca", "surname": "Bianchi"}
+      }
+    ],
+    "creationDate": { "seconds": 1778320800, "nanoseconds": 0 },
+    "dietaryRestrictions": ["Nut-free"],
+    "forkedFromUserId": ""
+  },
+  {
+    "id": "5",
+    "title": "Quinoa and Vegetables Salad",
+    "recipePicture": "eggme_photos/quinoa.png",
+    "cost": "MEDIUM",
+    "difficulty": "EASY",
+    "cuisineType": "French",
+    "time": 30,
+    "servings": 2,
+    "ingredients": [
+      { "name": "Eggs", "quantity": 1, "unityOfMeasurement": "pcs" },
+      { "name": "Quinoa", "quantity": 100, "unityOfMeasurement": "g" },
+      { "name": "Tomatoes", "quantity": 100, "unityOfMeasurement": "g" },
+      { "name": "Cucumber", "quantity": 1, "unityOfMeasurement": "pcs" },
+      { "name": "Feta cheese", "quantity": 80, "unityOfMeasurement": "g" },
+      { "name": "Olive Oil", "quantity": 1, "unityOfMeasurement": "q.b." },
+      { "name": "Salt", "quantity": 1, "unityOfMeasurement": "q.b." }
+    ],
+    "steps": [
+      { "title": "Cook quinoa", "description": "Cook quinoa for about 15 minutes.", "picture": "eggme_photos/step1_quinoa.png" },
+      { "title": "Cook egg", "description": "Cook the egg (boiled or pan-fried) and cut into pieces.", "picture": "eggme_photos/step2_quinoa.png" },
+      { "title": "Cut vegetables", "description": "Chop vegetables and feta.", "picture": "eggme_photos/step3_quinoa.png" },
+      { "title": "Assemble", "description": "Let quinoa cool, mix everything and season.", "picture": "eggme_photos/step4_quinoa.png" }
+    ],
+    "author": { "id": "z1jY4W7yXaMMz67ti2KhFFDAda32", "name": "Mario", "surname": "Rosa" },
+    "rating": 3.5,
+    "reviews": [
+      {
+        "id": "1",
+        "description": "Fresh and healthy salad, very easy to prepare. The quinoa is light and the feta adds a nice touch of flavor.",
+        "rating": 4,
+        "photo": "eggme_photos/review_quinoa.png",
+        "reviewDate": { "seconds": 1778155200, "nanoseconds": 0 },
+        "author": {"id": "202", "name": "Luca", "surname": "Bianchi"}
+      },
+      {
+        "id": "2",
+        "description": "Good and balanced recipe. I liked the mix of vegetables, but I would have added a bit more seasoning.",
+        "rating": 3,
+        "photo": "",
+        "reviewDate": { "seconds": 1778155200, "nanoseconds": 0 },
+        "author": {"id": "303", "name": "Anna", "surname": "Verdi"}
+      }
+    ],
+    "creationDate": { "seconds": 1777975200, "nanoseconds": 0 },
+    "forkedFromUserId": ""
+  },
+  {
+    "id": "6",
+    "title": "Eggplant Parmesan",
+    "recipePicture": "eggme_photos/parmigiana.png",
+    "cost": "MEDIUM",
+    "difficulty": "MEDIUM",
+    "cuisineType": "Italian",
+    "time": 45,
+    "servings": 2,
+    "ingredients": [
+      { "name": "Eggs", "quantity": 1, "unityOfMeasurement": "pcs" },
+      { "name": "Eggplants", "quantity": 2, "unityOfMeasurement": "pcs" },
+      { "name": "Tomato sauce", "quantity": 200, "unityOfMeasurement": "ml" },
+      { "name": "Mozzarella", "quantity": 150, "unityOfMeasurement": "g" },
+      { "name": "Parmesan", "quantity": 50, "unityOfMeasurement": "g" },
+      { "name": "Olive Oil", "quantity": 1, "unityOfMeasurement": "q.b." }
+    ],
+    "steps": [
+      { "title": "Prepare eggplants", "description": "Slice and grill the eggplants.", "picture": "eggme_photos/step1_parmigiana.png" },
+      { "title": "Sauce", "description": "Prepare tomato sauce.", "picture": "eggme_photos/step2_parmigiana.png" },
+      { "title": "Egg", "description": "Whisk the egg and use it to lightly bind the layers.", "picture": "eggme_photos/step3_parmigiana.png" },
+      { "title": "Layering", "description": "Layer eggplants, sauce, egg and cheese.", "picture": "eggme_photos/step4_parmigiana.png" },
+      { "title": "Bake", "description": "Repeat layers and bake for 25 minutes.", "picture": "eggme_photos/step5_parmigiana.png" }
+    ],
+    "author": { "id": "z1jY4W7yXaMMz67ti2KhFFDAda32", "name": "Mario", "surname": "Rosa" },
+    "rating": 5.0,
+    "reviews": [
+      {
+        "id": "1",
+        "description": "Absolutely delicious and perfectly balanced. The eggplants were soft, flavorful, and the layering was spot on.",
+        "rating": 5,
+        "photo": "eggme_photos/review_parmigiana.png",
+        "reviewDate": { "seconds": 1778760000, "nanoseconds": 0 },
+        "author": {"id": "303", "name": "Anna", "surname": "Verdi"}
+      },
+      {
+        "id": "2",
+        "description": "One of the best eggplant parmesan I’ve ever tried. Rich, tasty, and very satisfying from the first bite to the last.",
+        "rating": 5,
+        "photo": "",
+        "reviewDate": { "seconds": 1778846400, "nanoseconds": 0 },
+        "author": {"id": "202", "name": "Luca", "surname": "Bianchi"}
+      }
+    ],
+    "creationDate": { "seconds": 1778752800, "nanoseconds": 0 },
+    "forkedFromUserId": ""
+  },
+  {
+    "id": "7",
+    "title": "Vegetarian Tacos",
+    "recipePicture": "eggme_photos/tacos.png",
+    "cost": "CHEAP",
+    "difficulty": "EASY",
+    "cuisineType": "Mexican",
+    "time": 20,
+    "servings": 2,
+    "ingredients": [
+      { "name": "Eggs", "quantity": 1, "unityOfMeasurement": "pcs" },
+      { "name": "Tortillas", "quantity": 4, "unityOfMeasurement": "pcs" },
+      { "name": "Black beans", "quantity": 150, "unityOfMeasurement": "g" },
+      { "name": "Corn", "quantity": 100, "unityOfMeasurement": "g" },
+      { "name": "Avocado", "quantity": 1, "unityOfMeasurement": "pcs" },
+      { "name": "Salsa", "quantity": 1, "unityOfMeasurement": "q.b." }
+    ],
+    "steps": [
+      { "title": "Tortillas", "description": "Heat the tortillas.", "picture": "eggme_photos/step1_tacos.png" },
+      { "title": "Egg", "description": "Cook the egg in a pan and crumble it into the filling.", "picture": "eggme_photos/step2_tacos.png" },
+      { "title": "Filling", "description": "Prepare filling with beans, corn, avocado and egg.", "picture": "eggme_photos/step3_tacos.png" },
+      { "title": "Assemble", "description": "Fill tortillas and serve.", "picture": "eggme_photos/step4_tacos.png" }
+    ],
+    "author": { "id": "z1jY4W7yXaMMz67ti2KhFFDAda32", "name": "Mario", "surname": "Rosa" },
+    "rating": 3.5,
+    "reviews": [
+      {
+        "id": "1",
+        "description": "Really fresh and tasty tacos. The combination of beans, corn and avocado works perfectly for a quick meal.",
+        "rating": 4,
+        "photo": "eggme_photos/review_tacos.png",
+        "reviewDate": { "seconds": 1778155200, "nanoseconds": 0 },
+        "author": {"id": "303", "name": "Anna", "surname": "Verdi"}
+      },
+      {
+        "id": "2",
+        "description": "Simple and fun recipe. Very quick to prepare, but I would have liked a bit more spice in the salsa.",
+        "rating": 3,
+        "photo": "",
+        "reviewDate": { "seconds": 1778155200, "nanoseconds": 0 },
+        "author": {"id": "202", "name": "Luca", "surname": "Bianchi"}
+      }
+    ],
+    "creationDate": { "seconds": 1778148000, "nanoseconds": 0 },
+    "forkedFromUserId": ""
+  },
+  {
+    "id": "8",
+    "title": "Vegetable Noodles",
+    "recipePicture": "eggme_photos/noodles.png",
+    "cost": "CHEAP",
+    "difficulty": "EASY",
+    "cuisineType": "Chinese",
+    "time": 25,
+    "servings": 2,
+    "ingredients": [
+      { "name": "Eggs", "quantity": 1, "unityOfMeasurement": "pcs" },
+      { "name": "Noodles", "quantity": 200, "unityOfMeasurement": "g" },
+      { "name": "Carrot", "quantity": 1, "unityOfMeasurement": "pcs" },
+      { "name": "Zucchini", "quantity": 1, "unityOfMeasurement": "pcs" },
+      { "name": "Soy sauce", "quantity": 2, "unityOfMeasurement": "tbsp" },
+      { "name": "Olive Oil", "quantity": 1, "unityOfMeasurement": "q.b." }
+    ],
+    "steps": [
+      { "title": "Cook noodles", "description": "Cook the noodles.", "picture": "eggme_photos/step1_noodles.png" },
+      { "title": "Egg", "description": "Scramble the egg in a pan.", "picture": "eggme_photos/step2_noodles.png" },
+      { "title": "Vegetables", "description": "Chop vegetables.", "picture": "eggme_photos/step3_noodles.png" },
+      { "title": "Stir-fry", "description": "Stir-fry vegetables.", "picture": "eggme_photos/step4_noodles.png" },
+      { "title": "Combine", "description": "Add noodles, egg and soy sauce.", "picture": "eggme_photos/step5_noodles.png" }
+    ],
+    "author": { "id": "z1jY4W7yXaMMz67ti2KhFFDAda32", "name": "Mario", "surname": "Rosa" },
+    "rating": 4.0,
+    "reviews": [
+      {
+        "id": "1",
+        "description": "Tasty and quick recipe. The vegetables were fresh and the soy sauce gave a nice balance of flavor.",
+        "rating": 4,
+        "photo": "",
+        "reviewDate": { "seconds": 1778241600, "nanoseconds": 0 },
+        "author": {"id": "303", "name": "Anna", "surname": "Verdi"}
+      },
+      {
+        "id": "2",
+        "description": "Good everyday meal. Easy to prepare, but I would have preferred a bit more seasoning and spice.",
+        "rating": 4,
+        "photo": "eggme_photos/review_noodle.png",
+        "reviewDate": { "seconds": 1778328000, "nanoseconds": 0 },
+        "author": {"id": "202", "name": "Luca", "surname": "Bianchi"}
+      }
+    ],
+    "creationDate": { "seconds": 1778234400, "nanoseconds": 0 },
+    "forkedFromUserId": ""
+  },
+  {
+    "id": "9",
+    "title": "Banana Pancakes",
+    "recipePicture": "eggme_photos/pancake.png",
+    "cost": "CHEAP",
+    "difficulty": "EASY",
+    "cuisineType": "American",
+    "time": 20,
+    "servings": 2,
+    "ingredients": [
+      { "name": "Eggs", "quantity": 1, "unityOfMeasurement": "pcs" },
+      { "name": "Banana", "quantity": 1, "unityOfMeasurement": "pcs" },
+      { "name": "Flour", "quantity": 50, "unityOfMeasurement": "g" },
+      { "name": "Milk", "quantity": 50, "unityOfMeasurement": "ml" }
+    ],
+    "steps": [
+      { "title": "Batter", "description": "Mash the banana and add egg, flour and milk.", "picture": "eggme_photos/step1_pancake.png" },
+      { "title": "Cook", "description": "Heat a pan and pour the batter.", "picture": "eggme_photos/step2_pancake.png" },
+      { "title": "Serve", "description": "Cook and serve.", "picture": "eggme_photos/step3_pancake.png" }
+    ],
+    "author":{"id": "303", "name": "Anna", "surname": "Verdi" },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "id": "1",
+        "description": "Perfect breakfast pancakes! Soft, fluffy, and naturally sweet thanks to the banana. Very easy and quick to make.",
+        "rating": 5,
+        "photo": "",
+        "reviewDate": { "seconds": 1778155200, "nanoseconds": 0 },
+        "author": {"id": "z1jY4W7yXaMMz67ti2KhFFDAda32", "name": "Mario", "surname": "Rosa"}
+      },
+      {
+        "id": "2",
+        "description": "Nice and simple recipe, but the texture was a bit too dense for my taste. Still enjoyable as a quick breakfast option.",
+        "rating": 4,
+        "photo": "eggme_photos/review_pancake.png",
+        "reviewDate": { "seconds": 1778155200, "nanoseconds": 0 },
+        "author": {"id": "202", "name": "Luca", "surname": "Bianchi"}
+      }
+    ],
+    "creationDate": { "seconds": 1778148000, "nanoseconds": 0 },
+    "forkedFromUserId": ""
+  }
+]

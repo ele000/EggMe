@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Find your Farmers</name>
+    <description/>
+    <Style id="icon-1899-F9A825-nodesc-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-nodesc-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Farmers</name>
+      <Placemark>
+        <name><![CDATA[John's farm]]></name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.3766245,44.8238598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azienda Agricola Bonino Rosella</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.369965,44.8209648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azienda agricola Priotti frutta magazzino</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.3579885,44.8191642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Galline Felici s.r.l.</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.4224835,44.8781504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azienda Agricola Agriflora</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.466421,45.1398728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azienda Agricola Sottoboschi</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.4693402,45.097813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Azienda agricola "La Primula"]]></name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.56626,45.1096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azienda Agricola Dentis - Cascina La Porchetta Di Ferdinando E Angelo</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.6223076,45.059472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azienda Agricola CASCINA MELLANO</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.5080532,45.0281784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azienda Agricola Prinetto</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.7211467,45.0163304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azienda Agricola La Magnolia</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.6411082,45.12226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azienda Agricola Scaglia</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.5396999,45.0858954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azienda Agricola Mompalà</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.6957324,45.0699458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azienda agricola Bisoglio di Simone Spada</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.296055,45.097433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uova bio</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.7535463,45.2539576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azienda Agricola Il Girasole di Delaurenti Dario</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.7626614,45.3273257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azienda agricola e agriturismo Il Ranch</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.7154315,45.1444042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azienda agricola Albano Aurelio</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.9664765,45.1913978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azienda agricola ‘Me Na Vira</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.8896023,45.1909719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

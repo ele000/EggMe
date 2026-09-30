@@ -1,0 +1,114 @@
+[
+  {
+    "id": "z1jY4W7yXaMMz67ti2KhFFDAda32",
+    "userName": "mario_rosa",
+    "name": "Mario",
+    "surname": "Rosa",
+    "email": "group9mad@gmail.com",
+    "cookingRole": "PRO CHEF",
+    "favoriteIngredients": ["Eggs", "Olive oil", "Parmesan","Feta cheese","Avocado"],
+    "cuisineType": ["Italian", "French", "Japanese"],
+    "restriction": ["Nut-free"],
+    "userLists": {
+      "Favorite": [
+        {
+          "id": "4",
+          "title": "Avocado Toast",
+          "recipePicture": "eggme_photos/toast.png",
+          "time": 15,
+          "rating": 4.5
+        },
+        {
+          "id": "5",
+          "title": "Quinoa and Vegetables Salad",
+          "recipePicture": "eggme_photos/quinoa.png",
+          "time": 30,
+          "rating": 3.5
+        },
+        {
+          "id": "6",
+          "title": "Eggplant Parmesan",
+          "recipePicture": "eggme_photos/parmigiana.png",
+          "time": 45,
+          "rating": 5.0
+        },
+        {
+          "id": "7",
+          "title": "Vegetarian Tacos",
+          "recipePicture": "eggme_photos/tacos.png",
+          "time": 20,
+          "rating": 3.5
+        }
+      ],
+      "Executed": [
+        {
+          "id": "7",
+          "title": "Vegetarian Tacos",
+          "recipePicture": "eggme_photos/tacos.png",
+          "time": 20,
+          "rating": 3.5
+        }
+      ]
+    }
+  },
+  {
+    "id": "202",
+    "userName": "luca_bianchi",
+    "name": "Luca",
+    "surname": "Bianchi",
+    "email": "luca.bianchi@example.com",
+    "cookingRole": "HOME COOK",
+    "favoriteIngredients": ["Eggplants"],
+    "cuisineType": [],
+    "restriction": [],
+    "userLists": {
+      "Executed": [],
+      "Favorite": []
+    }
+  },
+  {
+    "id": "303",
+    "userName": "anna_verdi",
+    "name": "Anna",
+    "surname": "Verdi",
+    "email": "anna.verdi@example.com",
+    "cookingRole": "BAKER",
+    "favoriteIngredients": ["Milk"],
+    "cuisineType": [],
+    "restriction": [],
+    "userLists": {
+      "Executed": [],
+      "Favorite": []
+    }
+  },
+  {
+    "id": "404",
+    "userName": "carla_rossi",
+    "name": "Carla",
+    "surname": "Rossi",
+    "email": "carla.rossi@example.com",
+    "cookingRole": "COOK",
+    "favoriteIngredients": [],
+    "cuisineType": [],
+    "restriction": [],
+    "userLists": {
+      "Executed": [],
+      "Favorite": []
+    }
+  },
+  {
+    "id": "505",
+    "userName": "emanuelebruno",
+    "name": "Emanuele",
+    "surname": "Bruno",
+    "email": "emanuele.bruno@example.com",
+    "cookingRole": "PASTRY CHEF",
+    "favoriteIngredients": [],
+    "cuisineType": [],
+    "restriction": [],
+    "userLists": {
+      "Executed": [],
+      "Favorite": []
+    }
+  }
+]
